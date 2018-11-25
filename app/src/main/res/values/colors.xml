@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <!-- 1st Gradient color -->
+    <color name="colorPurple_A400">#D500F9</color>
+    <color name="colorPurple_900">#4A148C</color>
+    <!-- ./ 1st Gradient color -->
+
+    <!-- 2nd Gradient color -->
+    <color name="colorAmber_A400">#FFC400</color>
+    <color name="colorAmber_900">#FF6F00</color>
+    <!-- ./ 2nd Gradient color -->
+
+    <!-- 3rd Gradient color -->
+    <color name="colorGreen_A400">#00E676</color>
+    <color name="colorGreen_900">#1B5E20</color>
+    <!-- ./ 3rd Gradient color -->
+
+    <!-- 4th Gradient color -->
+    <color name="colorRed_A400">#FF1744</color>
+    <color name="colorRed_900">#B71C1C</color>
+    <!-- ./ 4th Gradient color -->
+
+    <!-- 5st blue-->
+    <color name="colorBlue_A400">#6666c1</color>
+    <color name="colorBlue_900">#1d4457</color>
+    <color name="orange_butt_227">#E38249</color>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+    <color name="white">#ffffff</color>
+    <color name="black">#d5d5d5</color>
+
+
+</resources>
